@@ -1,0 +1,12 @@
+rich
+inquirer
+numpy
+cython
+pythran
+numba
+pybind11
+dask[complete]
+maturin
+pandas
+matplotlib
+seaborn 
